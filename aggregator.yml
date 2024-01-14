@@ -3,4 +3,4 @@ eureka:
         service-url:
             defaultZone: "http://eureka-server:8761/eureka/"
 temperature:
-  unit: c
+  unit: k
